@@ -3,7 +3,6 @@
   "version": "0.0.4",
   "description": "A Nestjs wrapper for oauth2-server",
   "main": "index.js",
-  "type": "module",
   "types": "index.d.ts",
   "author": "B'Tunde Aromire",
   "keywords": [
